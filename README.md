@@ -1,1 +1,1 @@
-# School-Website-
+# Wizard School-Website-
